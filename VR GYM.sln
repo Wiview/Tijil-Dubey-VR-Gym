@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.Hands", "Unity.XR.Interaction.Toolkit.Samples.Hands.csproj", "{452a4983-61f1-d463-1dac-871e2af6e3b2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator", "Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.csproj", "{c13d2984-9952-ad98-30c5-be30f8ce3b75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{4be24b3c-c23d-2b39-9138-06fb34138eef}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{d8198764-7140-cd82-3013-3aa888b2ff67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor", "Unity.XR.Interaction.Toolkit.Samples.Hands.Editor.csproj", "{8e027a04-2fd7-1d0c-fda4-8a94fae824a8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{5879ddf8-2160-b45d-1272-b0b0e56fcad0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.InputSystem.InGameHints", "Unity.InputSystem.InGameHints.csproj", "{93e9b7fe-db40-03cc-babf-6b05f2fd094d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.Editor.csproj", "{42eaada7-c2ba-4151-17e7-cd592d75c5ca}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Hands.Samples.VisualizerSample", "Unity.XR.Hands.Samples.VisualizerSample.csproj", "{2a0912b2-0ebc-97dd-06aa-226e4308f96c}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets", "Unity.XR.Interaction.Toolkit.Samples.ARStarterAssets.csproj", "{9665d689-f417-4c97-475c-f82fab54853f}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{452a4983-61f1-d463-1dac-871e2af6e3b2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452a4983-61f1-d463-1dac-871e2af6e3b2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c13d2984-9952-ad98-30c5-be30f8ce3b75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c13d2984-9952-ad98-30c5-be30f8ce3b75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4be24b3c-c23d-2b39-9138-06fb34138eef}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4be24b3c-c23d-2b39-9138-06fb34138eef}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d8198764-7140-cd82-3013-3aa888b2ff67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d8198764-7140-cd82-3013-3aa888b2ff67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8e027a04-2fd7-1d0c-fda4-8a94fae824a8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8e027a04-2fd7-1d0c-fda4-8a94fae824a8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5879ddf8-2160-b45d-1272-b0b0e56fcad0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5879ddf8-2160-b45d-1272-b0b0e56fcad0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93e9b7fe-db40-03cc-babf-6b05f2fd094d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93e9b7fe-db40-03cc-babf-6b05f2fd094d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42eaada7-c2ba-4151-17e7-cd592d75c5ca}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42eaada7-c2ba-4151-17e7-cd592d75c5ca}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2a0912b2-0ebc-97dd-06aa-226e4308f96c}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2a0912b2-0ebc-97dd-06aa-226e4308f96c}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9665d689-f417-4c97-475c-f82fab54853f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9665d689-f417-4c97-475c-f82fab54853f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
